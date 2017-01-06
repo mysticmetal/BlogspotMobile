@@ -8,7 +8,7 @@ package com.rakaadinugroho.blogspotmobile.base;
  */
 
 public class Constants {
-    public static final String BLOG_KEY = "AIzaSyBurZXmctz6SvuicpdYDFtv0XYZUTfyLfc";
-    public static final String BLOG_ID  = "6701153495292764364";
+    public static final String BLOG_KEY = "Your Google APIs Key";
+    public static final String BLOG_ID  = "Your Blog ID";
     public static final String BASE_URL = "https://www.googleapis.com/";
 }
